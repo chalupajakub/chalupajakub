@@ -32,11 +32,7 @@ Třebíč, Czech Republic
 Třebíč | April – May 2024  
 - Collaborated on website development in a team  
 - Gained experience in web design principles  
-- Provided computer maintenance and technical support  
-
-**Volunteer Work – Kočárka Březejc**  
-- Assisted with event setup and cleaning  
-- Helped serve food and drinks at community events  
+- Provided computer maintenance and technical support
 
 ---
 
