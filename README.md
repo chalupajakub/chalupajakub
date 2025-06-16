@@ -82,7 +82,6 @@ Třebíč | April – May 2024
 ---
 
 ## Contact
-
-- Email: chalupa_07@spst.eu  
+- Email: chalupaj.07@spst.eu  
 - Phone: +420 778 456 906  
 - Location: Czech Republic  
