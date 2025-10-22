@@ -1,6 +1,6 @@
 # Jakub Chalupa – Junior Web Developer & IT Student  
 
-Hi! 👋  
+Hi!  
 I'm **Jakub Chalupa**, a high school student specializing in **Information Technology**.  
 I'm passionate about **web development**, **cybersecurity**, and **programming**.  
 I love learning new technologies, collaborating on creative projects, and continuously improving my technical and soft skills.  
@@ -30,11 +30,11 @@ I love learning new technologies, collaborating on creative projects, and contin
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **Secondary Technical School of Třebíč**  
 _Maturita Programme – Information Technology_  
-📍 Třebíč, Czech Republic | 2022 – Present  
+- Třebíč, Czech Republic | 2022 – 2026  
 
 **Main Areas of Study:**  
 - Programming & Software Development  
