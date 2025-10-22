@@ -1,4 +1,4 @@
-# 💫 Jakub Chalupa – Junior Web Developer & IT Student  
+# Jakub Chalupa – Junior Web Developer & IT Student  
 
 Hi! 👋  
 I'm **Jakub Chalupa**, a high school student specializing in **Information Technology**.  
@@ -7,7 +7,7 @@ I love learning new technologies, collaborating on creative projects, and contin
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,17 +45,17 @@ _Maturita Programme – Information Technology_
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
 **Web Designer – McRAI s.r.o.**  
-📍 Třebíč | April – May 2024  
+- Třebíč | April – May 2024  
 - Collaborated on website development as part of a team  
 - Gained experience with web design principles and UX/UI basics  
 - Provided technical support and computer maintenance  
 
 ---
 
-## 🌍 Language Skills  
+## Language Skills  
 
 - **Czech:** Native  
 - **English:**  
@@ -66,7 +66,7 @@ _Maturita Programme – Information Technology_
 
 ---
 
-## 🧠 Digital Skills  
+## Digital Skills  
 
 **Programming:** C#, C++, HTML, CSS, JavaScript  
 **Tools:** Visual Studio, GitHub, Figma, Google Workspace  
@@ -75,7 +75,7 @@ _Maturita Programme – Information Technology_
 
 ---
 
-## 💪 Personal Traits  
+## Personal Traits  
 
 - Self-driven & proactive  
 - Friendly and team-oriented  
@@ -83,15 +83,15 @@ _Maturita Programme – Information Technology_
 
 ---
 
-## 🎨 Hobbies & Interests  
+## Hobbies & Interests  
 
-- 🏋️‍♂️ **Sports:** Gym, sparring boxing, calisthenics  
-- ✏️ **Drawing:** A lifelong hobby and creative outlet  
-- 💻 **Programming:** Started with Unity (C#), now focused on building modern web applications  
+- **Sports:** Gym, sparring boxing, calisthenics  
+- **Drawing:** A lifelong hobby and creative outlet  
+- **Programming:** Started with Unity (C#), now focused on building modern web applications  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=chalupajakub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=chalupajakub&theme=dark&hide_border=false)  
@@ -99,11 +99,11 @@ _Maturita Programme – Information Technology_
 
 ---
 
-## 📫 Contact  
+## Contact  
 
-📧 **Email:** [chalupaj.07@spst.eu](mailto:chalupaj.07@spst.eu)  
-📱 **Phone:** +420 778 456 906  
-📍 **Location:** Czech Republic  
+- **Email:** [chalupaj.07@spst.eu](mailto:chalupaj.07@spst.eu)  
+- **Phone:** +420 778 456 906  
+- **Location:** Czech Republic  
 
 [![](https://visitcount.itsvg.in/api?id=chalupajakub&icon=0&color=0)](https://visitcount.itsvg.in)  
 
