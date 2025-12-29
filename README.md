@@ -40,29 +40,7 @@ _Maturita Programme – Information Technology_
 - Programming & Software Development  
 - Cybersecurity  
 - Database & Network Administration  
-- Web Application Development  
-- Hardware & Microelectronics  
-
----
-
-## Work Experience  
-
-**Web Designer – McRAI s.r.o.**  
-- Třebíč | April – May 2024  
-- Collaborated on website development as part of a team  
-- Gained experience with web design principles and UX/UI basics  
-- Provided technical support and computer maintenance  
-
----
-
-## Language Skills  
-
-- **Czech:** Native  
-- **English:**  
-  - Listening: B2  
-  - Reading: B2  
-  - Writing: B2  
-  - Speaking: B1  
+- Web Application Development
 
 ---
 
@@ -78,14 +56,14 @@ _Maturita Programme – Information Technology_
 ## Personal Traits  
 
 - Self-driven & proactive  
-- Friendly and team-oriented  
+- Friendly and positive  
 - Always eager to learn and take on challenges  
 
 ---
 
 ## Hobbies & Interests  
 
-- **Sports:** Gym, sparring boxing, calisthenics  
+- **Sports:** Gym, calisthenics, running
 - **Drawing:** A lifelong hobby and creative outlet  
 - **Programming:** Started with Unity (C#), now focused on building modern web applications  
 
@@ -101,8 +79,7 @@ _Maturita Programme – Information Technology_
 
 ## Contact  
 
-- **Email:** [chalupaj.07@spst.eu](mailto:chalupaj.07@spst.eu)  
-- **Phone:** +420 778 456 906  
+- **Email:** [chalupajakub57@gmail.com](mailto:chalupajakub57@gmail.com)  
 - **Location:** Czech Republic  
 
 [![](https://visitcount.itsvg.in/api?id=chalupajakub&icon=0&color=0)](https://visitcount.itsvg.in)  
