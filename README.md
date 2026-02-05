@@ -33,7 +33,7 @@ I love learning new technologies, collaborating on creative projects, and contin
 ## Education  
 
 **Secondary Technical School of Třebíč**  
-_Maturita Programme – Information Technology_  
+_Information Technology_  
 - Třebíč, Czech Republic | 2022 – 2026  
 
 **Main Areas of Study:**  
@@ -47,7 +47,7 @@ _Maturita Programme – Information Technology_
 ## Digital Skills  
 
 **Programming:** C#, C++, HTML, CSS, JavaScript  
-**Tools:** Visual Studio, GitHub, Figma, Google Workspace  
+**Tools:** Visual Studio, Visual Studio Code, GitHub, Figma, Google Workspace  
 **Office Tools:** Microsoft Word, Excel, PowerPoint  
 **Others:** Google Docs, basic Social Media Management  
 
